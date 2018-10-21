@@ -1,0 +1,15 @@
+
+body{
+    background-image: url('what-the-hex.png');
+}
+
+h2{
+    color: #FFBC00;
+    font-size: 50px;
+    font-family: "Raleway";
+}
+
+legend{
+    color: #FFBC00;
+    font-size: 40px;
+}
